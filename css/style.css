@@ -1,0 +1,34 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 0px;
+padding: 0;
+background-color: hwb(96 57% 9%);
+font-weight: 800;
+box-sizing: border-box;
+}
+nav ul{
+display: flex;
+font-weight: 700;
+list-style: none;
+justify-content: center;
+
+}
+nav{
+    display: flex;
+    background-color:black;
+    position: fixed;
+    
+
+    
+}
+nav li{
+    margin-right: 20px;
+}
+nav a{
+color: tomato;
+
+}
+header {
+    color: blue;
+    position: relative;
+}
